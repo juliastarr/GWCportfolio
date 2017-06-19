@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<style>
+img {
+  float: right;
+  margin: 0 0 20px 20px
+}
+</style>
+<head>
+
+<title> Julia Starr </title>
+
+</head>
+
+<body style="background-color: powderblue;">
+
+<h1 style="text-align:center; color: grey; font-family: Arial"> Julia Starr </h1>
+
+<h2 style= "color: grey; font-family: Arial"> About Me </h2>
+
+<p>
+  Hello! My name is Julia Starr. I am sixteen years old, however i will be turning seventeen on June 28th. I go to St. Francis High School and I will be a senior next year. I am a dancer and have been dancing since I was two years old. I have done ballet, tap, modern, jazz, and musical theater dance. However I have done ballet for all 16 years of my expereince, unlike the other styles. I dance at Western Ballet in Mountain View. I also love musical theater. The first musical theater show that I did was Phantom of the Opera at my school. I have loved it ever since. Since then, I have participated in Fiddler on the Roof with my school, West Side Story with my school, and Little Shop of Horrors with Peninsula Youth Theater.
+ </p>
+
+<!-- WRITE MORE ABOVE! -->
+
+<img src="C:\Users\admin\Desktop\jstarr.jpg" alt="mE" width="250px" height="250px"/>
+
+<h2 style= "color: grey; font-family: Arial"> Likes and Dislikes</h2>
+
+<p>
+  I love musicals. Some of my favorites are:
+
+  <ul style="list-style-type:circle">
+    <li>Dear Evan Hansen</li>
+    <li>Heathers</li>
+    <li>Little Shop of Horrors</li>
+  </ul>
+
+  I also love ballet, and I have been doing it since I was 2 years old. I have done The Nutcracker every year since I was two. On the right is a picture of me as "Arabian Coffee" during Nutcracker rehearsal.
+
+<img src="C:\Users\admin\Desktop\balletpic.jpg" alt="me dancing"/>
+
+</p>
+
+</body>
+</html>

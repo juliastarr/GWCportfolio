@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<style>
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  padding: 10 px;
+}
+
+img {
+  float: right;
+  margin: 0 0 20px 20px
+}
+</style>
+<head>
+  <link rel="stylesheet" type ="text/css" href = "style.css" />
+
+<title> Julia Starr </title>
+
+</head>
+
+<body>
+
+<h1 style="text-align:center; color: grey; font-family: Comic Sans MS;"> <u>Julia Starr</u> </h1>
+
+<div>
+
+  <form>
+  <input style= "font-family: Georgia" type="button" value="About Me"
+  onclick="window.location.href='file:///C:/Users/admin/Desktop/webpage,%20abt%20me'"/>
+  </form>
+
+</div>
+
+  <!-- CHANGE TO DIFFERNT PAGE -->
+
+<div class= "right">
+
+  <form>
+  <input style= "font-family: Georgia; background" type="button" value="Dear Evan Hansen (placefiller)"
+  onclick="window.location.href='http://www.dearevanhansen.com'"/>
+  </form>
+
+</div>
+
+<div>
+
+  <img src="C:\Users\admin\Desktop\jstarr.jpg" alt="mE" width="250px" height="250px"/>
+
+</div>
+
+<h2 style= "color: grey; font-family: Georgia"><u> About Me </u> </h2>
+
+<p style= "font-family: Georgia">
+  Hello! My name is Julia Starr. I am sixteen years old, however I will be turning seventeen on June 28th. I go to St. Francis High School and I will be a senior next year. I have done ballet, tap, modern, jazz, and musical theater dance. However I have done ballet for all 16 years. I also love musical theater. The first show that I did was Phantom of the Opera at my school.  Since then, I have done Fiddler on the Roof with my school, West Side Story with my school, and Little Shop of Horrors with Peninsula Youth Theater.
+ </p>
+
+<!-- WRITE MORE ABOVE! -->
+
+<h3 style= "color: grey; font-family: Georgia"> Likes and Dislikes</h3>
+
+<p style= "font-family: Georgia">
+  I love MUSICALS. Some of my favorites are:
+  <ul style="list-style-type:circle">
+    <li>Dear Evan Hansen</li>
+    <li>Heathers</li>
+    <li>Little Shop of Horrors</li>
+  </ul>
+</p>
+
+<img src="C:\Users\admin\Desktop\balletpic.jpg" alt="me dancing"/>
+
+<p style= "font-family: Georgia">
+
+ I also love BALLET, and I have been doing it since I was 2 years old. I have done The Nutcracker every year since I started. On the right is a picture of me as "Arabian Coffee" during Nutcracker rehearsal.
+
+</p>
+
+<p>
+  I also love FOOD! (but I don't eat meat). Heres a list of some of my favorite foods:
+  <ul style="list-style-type:circle">
+    <li> Bread (literally just plain bread)</li>
+    <li> Sushi</li>
+    <li> Pizza</li>
+    <li> Avocado!</li>
+  </ul>
+</p>
+
+  <h3 style= "color:grey; font-family: Georgia"> Favorite Websites: </h3>
+
+  <ul style="Font-family: Georgia; list-style-type:circle">
+    <li> <a href="http://www.playbill.com/"> Playbill </a> </li>
+    <li> <a href="http://www.twitter.com/">Twitter</a></li>
+    <li> <a href="http://www.westernballet.org">Western Ballet (my ballet school)</a></li>
+    <li> <a href="http://www.broadway.com">Broadway.com</a></li>
+
+
+  </ul>
+</p>
+</body>
+</html>
